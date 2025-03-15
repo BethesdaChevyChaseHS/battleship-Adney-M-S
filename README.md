@@ -67,6 +67,7 @@ The main state to track in the Grid is a 2-dimensional array of Location objects
 5. Complete the allShipsSank method. This should visit all locations in the grid and check if all locations that have a ship also are hit. If all ships are sank return true, otherwise false. 
 
 ```
+
 gradle -p ./battleship runGridTest
 ```
 
